@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h align="left">Hey 👋 What's up?</h1>
+<h align="left" color = "blue">Hey 👋 What's up?</h1>
 
 ###
 
