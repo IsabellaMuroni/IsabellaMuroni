@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 <h3 align="center">A student of the University Programmer - UNT and a mathematics teacher</h3>
 
 -🤝 I’m a mentor in the "Club de Chicas Programadoras"
+
 -🔭 I’m an Assistant Professor of Laboratory I and II
+
 -🌱 I’m currently learning **React**
 
 
