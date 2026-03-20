@@ -1,14 +1,12 @@
 # 👋 Hola, soy Isabella / Hi, I'm Isabella
 
-💻 Analista de Datos & Programadora
-
-
+💻 Analista de Datos & Programadora  
 💻 Data Analyst & Developer
 
-📊 Especializada en datos académicos y financieros
+📊 Especializada en datos académicos y financieros  
 📊 Specialized in academic and financial data
 
-⚙️ Automatización de procesos y desarrollo con APIs
+⚙️ Automatización de procesos y desarrollo con APIs  
 ⚙️ Process automation and API-based development
 
 ---
@@ -65,4 +63,4 @@ I also build solutions with React and automate processes using Google Apps Scrip
 
 ## 📫 Contacto / Contact
 
-* LinkedIn: (https://www.linkedin.com/in/isabellanievamuroni/)
+* LinkedIn: [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/isabellanievamuroni/)
