@@ -1,6 +1,8 @@
-# 👋 Hola, soy Isa / Hi, I'm Isa
+# 👋 Hola, soy Isabella / Hi, I'm Isabella
 
 💻 Analista de Datos & Programadora
+
+
 💻 Data Analyst & Developer
 
 📊 Especializada en datos académicos y financieros
